@@ -1,0 +1,28 @@
+Requirement already satisfied: asgiref==3.2.10 in c:\users\dell\djangoapp\fourth\env\lib\site-packages (3.2.10)
+Collecting certifi==2020.6.20
+  Using cached certifi-2020.6.20-py2.py3-none-any.whl (156 kB)
+Collecting chardet==3.0.4
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting defusedxml==0.6.0
+  Using cached defusedxml-0.6.0-py2.py3-none-any.whl (23 kB)
+Requirement already satisfied: Django==3.1.1 in c:\users\dell\djangoapp\fourth\env\lib\site-packages (3.1.1)
+Collecting django-allauth==0.42.0
+  Using cached django-allauth-0.42.0.tar.gz (549 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting django-crispy-forms==1.9.2
+  Using cached django_crispy_forms-1.9.2-py3-none-any.whl (108 kB)
+Collecting django-environ==0.4.5
+  Using cached django_environ-0.4.5-py2.py3-none-any.whl (21 kB)
+Collecting idna==2.10
+  Using cached idna-2.10-py2.py3-none-any.whl (58 kB)
+Collecting oauthlib==3.1.0
+  Using cached oauthlib-3.1.0-py2.py3-none-any.whl (147 kB)
+Collecting Pillow==7.2.0
+  Using cached Pillow-7.2.0.tar.gz (39.1 MB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting psycopg2==2.8.5
+  Using cached psycopg2-2.8.5.tar.gz (380 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'error'
